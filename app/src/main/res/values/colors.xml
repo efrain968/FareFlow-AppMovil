@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="color_primary">#000000</color>
+    <color name="color_primary_variant">#ffffff</color>
+    <color name="color_secondary">#000000</color>
+
+    <color name="color_background">#ffffff</color>
+    <color name="color_surface">#ffffff</color>
+
+
+    <color name="color_on_primary">#ffffff</color>
+    <color name="color_on_secondary">#ffffff</color>
+    <color name="color_on_background">#000000</color>
+    <color name="color_on_surface">#000000</color>
+
+    <color name="black">#FF000000</color>
+    <color name="prueba">#f0f2f5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bg">#F0F2F5</color>
+    <color name="bg_near">#1E233E</color>
+
+    <color name="uan">#066994</color>
+    <color name="uae_color1">#8f98ff</color>
+    <color name="uae_color2">#FFAA29</color>
+    <color name="uae_color3">#ff7648</color>
+    <color name="uae_color4">#4dc591</color>
+    <color name="uae_color7">#17678B</color>
+    <color name="uae_color8">#207511</color>
+</resources>

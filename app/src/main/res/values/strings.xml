@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FareFlow</string>
+    <string name="back">Volver</string>
+    <string name="qr_error">El QR no es valido.</string>
+    <string name="salir">Esta seguro de salir?</string>
+
+
+</resources>
